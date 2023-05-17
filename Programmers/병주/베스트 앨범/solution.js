@@ -22,11 +22,10 @@ function solution(genres, plays) {
   });
 
   console.log(
-    table
-    // [...table.entries()]
-    //   .sort((a, b) => b[1].total - a[1].total)
-    //   .flatMap((v) => v[1].songs)
-    //   .map((v) => v[1])
+    [...table.entries()]
+      .sort((a, b) => b[1].total - a[1].total)
+      .flatMap((v) => v[1].songs)
+      .map((v) => v[1])
   );
 
   return [...table.entries()]
