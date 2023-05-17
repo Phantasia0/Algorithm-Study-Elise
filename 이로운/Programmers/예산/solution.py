@@ -24,8 +24,13 @@ while low <= high:
     else:
         high = mid - 1
 
+budgets = []
 #예산은 bound로 정해진 상한액중 가장 최대값이 정답 
 for req in reqs:
-    answer = max(answer, min(req, bound))
+    budgets.append(min(req, bound))
+#budgets = list( map(lambda x: min(x, bound), reqs) ) #위와 같은식
 
+answer=max(budgets)
+
+#print(budgets)
 print(answer)
