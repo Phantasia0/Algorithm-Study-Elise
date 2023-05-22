@@ -11,3 +11,5 @@ def solution(n):
                 break
                 
     return answer
+
+print(solution(15))
