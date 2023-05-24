@@ -6,3 +6,6 @@ def solution(k, d):
         answer += (bk // k) + 1 # 여기서 1은 0일때 값
         ak += k
     return answer
+
+
+
