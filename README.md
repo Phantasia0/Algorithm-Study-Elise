@@ -108,144 +108,144 @@ git commit -m "Hello World"
 
 <table>
     <tr style="text-align: center">
-        <td rowspan="12"><b>1주차</b></td>
-        <td>Programmers</td><td>구현</td><td>안전지대</td><td>Level 0</td>
+        <td rowspan="12"><b>Week<br/>#1</b></td>
+        <td>PGS</td><td>구현</td><td>안전지대</td><td>Level 0</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/120866">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9B%90%EC%A4%80/LV0-%EC%95%88%EC%A0%84%EC%A7%80%EB%8C%80/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9B%90%EC%A4%80/LV0-%EC%95%88%EC%A0%84%EC%A7%80%EB%8C%80/solution.js">Code-JS</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>구현</td><td>신고 결과 받기</td><td>Level 1</td>
+        <td>PGS</td><td>구현</td><td>신고 결과 받기</td><td>Level 1</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92334">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9B%90%EC%A4%80/LV1-%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9B%90%EC%A4%80/LV1-%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0/solution.js">Code-JS</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%ED%83%9C%EB%A6%B0/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0/solution.py">Code-PY</td>       
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>DFS</td><td>양궁대회</td><td>Level 2</td>
+        <td>PGS</td><td>DFS</td><td>양궁대회</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92342">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9B%90%EC%A4%80/LV2-%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9B%90%EC%A4%80/LV2-%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C/solution.js">Code-JS</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%ED%83%9C%EB%A6%B0/%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>완전탐색</td><td>가장 긴 팰린드롬</td><td>Level 3</td>
+        <td>PGS</td><td>완전탐색</td><td>가장 긴 팰린드롬</td><td>Level 3</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12904">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9B%90%EC%A4%80/LV3-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%ED%8E%A0%EB%A6%B0%EB%93%9C%EB%A1%AD/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9B%90%EC%A4%80/LV3-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%ED%8E%A0%EB%A6%B0%EB%93%9C%EB%A1%AD/solution.js">Code-JS</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>구현</td><td>인사고과</td><td>Level 3</td>
+        <td>PGS</td><td>구현</td><td>인사고과</td><td>Level 3</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/152995">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9B%90%EC%A4%80/LV3-%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9B%90%EC%A4%80/LV3-%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC/solution.js">Code-JS</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>스택</td><td>올바른 괄호</td><td>Level 2</td>
+        <td>PGS</td><td>스택</td><td>올바른 괄호</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EB%B3%91%EC%A3%BC/LV2-%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EB%B3%91%EC%A3%BC/LV2-%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8/solution.js">Code-JS</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>완전탐색</td><td>전력망을 둘로 나누기</td><td>Level 2</td>
+        <td>PGS</td><td>완전탐색</td><td>전력망을 둘로 나누기</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/86971">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EB%B3%91%EC%A3%BC/LV2-%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EB%B3%91%EC%A3%BC/LV2-%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0/solution.js">Code-JS</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>해시</td><td>베스트 앨범</td><td>Level 3</td>
+        <td>PGS</td><td>해시</td><td>베스트 앨범</td><td>Level 3</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EB%B3%91%EC%A3%BC/LV3-%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EC%95%A8%EB%B2%94/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EB%B3%91%EC%A3%BC/LV3-%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EC%95%A8%EB%B2%94/solution.js">Code-JS</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>BFS</td><td>게임 맵 최단거리</td><td>Level 2</td>
+        <td>PGS</td><td>BFS</td><td>게임 맵 최단거리</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9A%B0%ED%98%84/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9A%B0%ED%98%84/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>완전탐색</td><td>숫자의 표현</td><td>Level 2</td>
+        <td>PGS</td><td>완전탐색</td><td>숫자의 표현</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9A%B0%ED%98%84/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9A%B0%ED%98%84/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>그리디</td><td>큰 수 만들기</td><td>Level 2</td>
+        <td>PGS</td><td>그리디</td><td>큰 수 만들기</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42883">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9A%B0%ED%98%84/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9A%B0%ED%98%84/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Baekjoon</td><td>그리디</td><td>세 수, 두 M</td><td>골드 4</td>
+        <td>BOJ</td><td>그리디</td><td>세 수, 두 M</td><td>골드 4</td>
         <td><a href="https://www.acmicpc.net/problem/2405">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/tree/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%84%B8%EC%88%98%2C%EB%91%90M">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%84%B8%EC%88%98%2C%EB%91%90M/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td rowspan="11"><b>2주차</b></td>
-        <td>Baekjoon</td><td>이진탐색</td><td>예산</td><td>실버 3</td>
+        <td rowspan="11"><b>Week<br/>#2</b></td>
+        <td>BOJ</td><td>이진탐색</td><td>예산</td><td>실버 3</td>
         <td><a href="https://www.acmicpc.net/problem/2512">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%98%88%EC%82%B0/README.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%98%88%EC%82%B0/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Baekjoon</td><td>DP</td><td>이친수 구하기</td><td>실버 3</td>
+        <td>BOJ</td><td>DP</td><td>이친수 구하기</td><td>실버 3</td>
         <td><a href="https://www.acmicpc.net/problem/2193">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%9D%B4%EC%B9%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0/README.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%9D%B4%EC%B9%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Baekjoon</td><td>조합</td><td>이항 계수 1</td><td>브론즈 1</td>
+        <td>BOJ</td><td>조합</td><td>이항 계수 1</td><td>브론즈 1</td>
         <td><a href="https://www.acmicpc.net/problem/11050">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%981/README.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%981/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>완전탐색</td><td>점찍기</td><td>Level 2</td>
+        <td>PGS</td><td>완전탐색</td><td>점찍기</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/140107?language=python3">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/tree/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%A0%90%EC%B0%8D%EA%B8%B0">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%A0%90%EC%B0%8D%EA%B8%B0/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>완전탐색</td><td>최소 직사각형</td><td>Level 1</td>
+        <td>PGS</td><td>완전탐색</td><td>최소 직사각형</td><td>Level 1</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/tree/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>완전탐색</td><td>치킨 쿠폰</td><td>Level 0</td>
+        <td>PGS</td><td>완전탐색</td><td>치킨 쿠폰</td><td>Level 0</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/120884?language=python3">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%B9%98%ED%82%A8%EC%BF%A0%ED%8F%B0/README.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%B9%98%ED%82%A8%EC%BF%A0%ED%8F%B0/solution.js">Code-JS</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%EC%9D%B4%EB%A1%9C%EC%9A%B4/%EC%B9%98%ED%82%A8%EC%BF%A0%ED%8F%B0/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>구현</td><td>k진수에서 소수 개수 구하기</td><td>Level 2</td>
+        <td>PGS</td><td>구현</td><td>k진수에서 소수 개수 구하기</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92335">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%ED%83%9C%EB%A6%B0/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%ED%83%9C%EB%A6%B0/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>그래프</td><td>네트워크</td><td>Level 3</td>
+        <td>PGS</td><td>그래프</td><td>네트워크</td><td>Level 3</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43162">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%ED%83%9C%EB%A6%B0/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%ED%83%9C%EB%A6%B0/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>DP</td><td>등굣길</td><td>Level 3</td>
+        <td>PGS</td><td>DP</td><td>등굣길</td><td>Level 3</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42898">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%ED%83%9C%EB%A6%B0/%EB%93%B1%EA%B5%A3%EA%B8%B8/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%ED%83%9C%EB%A6%B0/%EB%93%B1%EA%B5%A3%EA%B8%B8/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>DP</td><td>정수 삼각형</td><td>Level 3</td>
+        <td>PGS</td><td>DP</td><td>정수 삼각형</td><td>Level 3</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43105">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%ED%83%9C%EB%A6%B0/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%ED%83%9C%EB%A6%B0/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95/solution.py">Code-PY</td>
     </tr>
     <tr style="text-align: center">
-        <td>Programmers</td><td>구현</td><td>주차 요금 계산</td><td>Level 2</td>
+        <td>PGS</td><td>구현</td><td>주차 요금 계산</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92341">바로가기</a></td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%ED%83%9C%EB%A6%B0/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0/solution.md">MD</td>
         <td><a href="https://github.com/Phantasia0/Algorithm-Study-Elise/blob/master/Programmers/%ED%83%9C%EB%A6%B0/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0/solution.py">Code-PY</td>
