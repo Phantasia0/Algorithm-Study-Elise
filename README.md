@@ -106,7 +106,7 @@ git commit -m "Hello World"
 
 # ✅ 문제
 
-<table>
+<table style="font-size:small;">
     <tr style="text-align: center">
         <td rowspan="12"><b>Week<br/>#1</b></td>
         <td>PGS</td><td>구현</td><td>안전지대</td><td>Level 0</td>
